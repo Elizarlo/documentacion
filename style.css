@@ -866,7 +866,7 @@ a.active {
 
 .nav-holder {
 	background-size: cover;
-	background-position: 50% 50%;
+	background-position: 40% 60%;
 	width: 750px;
 	height: 100vh;
 	position: absolute;
@@ -973,7 +973,7 @@ a.active {
 	z-index: -1;
 	content: "";
 	opacity: .8;
-	right: 750px;
+	right: 500px;
 	position: fixed;
 	background: #000;
 }
@@ -1498,12 +1498,15 @@ a.active {
 }
 
 #particles-js {
+  width: 100%;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
 	position: absolute;
 }
+
+
 
 /*------------------------------------------------------------------
 10. Next Section / .next-section

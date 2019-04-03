@@ -35,7 +35,7 @@ particlesJS('particles-js',
         "value": 80,
         "density": {
           "enable": true,
-          "value_area": 800
+          "value_area": 500
         }
       },
       "color": {
@@ -138,7 +138,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#2b2a2a",
+      "background_color": "#1fbcc1",
       "background_image": "",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
